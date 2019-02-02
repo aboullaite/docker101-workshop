@@ -1,4 +1,4 @@
-# DCEU 2018 Workshop
+# Docker 101 tour
 
-Slides: https://docs.google.com/presentation/d/1OfMUl1qVMPYGcxaP6avfrAywCiK9Rzbf0deahempBm8/edit?usp=sharing
-
+The materials of Docker Morocco tour.
+This work is mainly inspired by [Michael Irwin and Ell Marquez](https://github.com/mikesir87/dceu-2018-workshop) worksop at DockerCon EU 2018!
